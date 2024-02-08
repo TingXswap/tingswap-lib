@@ -1,6 +1,6 @@
 # tingswap-lib
 
-Solidity libraries that are shared across Uniswap contracts. This package focuses on safety and execution gas efficiency.
+Solidity libraries that are shared across Tingswap contracts. This package focuses on safety and execution gas efficiency.
 
 ## Install
 
